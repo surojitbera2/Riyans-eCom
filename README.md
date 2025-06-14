@@ -182,3 +182,9 @@ This project is intended to be extended by you! We wanted to make possible to re
 - [BigCommerce](https://bigcommerce.zfrcsk.net/c/2429593/854992/2941) for a headless e-commerce solution
 - [Builder](https://www.builder.io) as a CMS for the blog articles or other content creation
 - [Klaviyo](https://www.klaviyo.com/) for any email or SMS marketing automation
+
+
+## Design & Develop by
+
+[Riyans WebTech](https://riyans.in/) is a full-service digital agency offering expert website development, digital marketing, graphic design, SEO, and PPC (Google Ads) services.
+Our top services include [Website Development](https://riyans.in/service/), Digital Marketing, SEO, and SMO etc.
